@@ -1,0 +1,217 @@
+Metadata application profile for Rice University Electronic Thesis and Dissertations
+ 
+This document presents existing metadata elements used for the description and long-term stewardship of Rice’s electronic theses and dissertations (ETDs). This profile is based on recommendations from the Networked Digital Library of Theses and Dissertations' (NDLTD) metadata standards for ETDs and the Texas Digital Library's (TDL) ETD MODS application profile as used in the Vireo: ETD Submission and Management system. Elements primarily reflect new practices with the implementation of the Vireo system, but also explain legacy practices with data prior to new ETD system. Elements are comprised of qualified Dublin Core-based descriptive metadata set.
+ 
+Elements
+dc.contributor.advisor
+dc.contributor.committeeMember
+dc.creator
+dc.date.created
+dc.date.issued
+dc.date.submitted
+dc.description
+dc.description.abstract
+dc.description.sponsorship
+dc.embargo.lift
+dc.embargo.terms
+dc.format.digitalOrigin
+dc.format.extent
+dc.format.mimetype
+dc.identifier.citation
+dc.identifier.digital
+dc.identifier.slug
+dc.identifier.uri
+dc.language.iso
+dc.relation.ispartofseries
+dc.subject
+dc.title
+dc.title.alternative
+dc.type.genre
+dc.type.material
+thesis.degree.department
+thesis.degree.discipline
+thesis.degree.grantor
+thesis.degree.level
+thesis.degree.name
+List of controlled vocabulary terms
+List of elements by group
+Elements for Supplemental Files
+Resources: Content standards and guidelines
+Miscellaneous
+ 
+Elements
+ 
+dc.contributor.advisor
+Name of Thesis Advisor. Name of thesis/dissertation advisor as it appears on title page or equivalent. Expressed in the authorized form of name if possible.
+ 
+dc.contributor.committeeMember
+Name of Committee Member. Name of committee member(s) found on title page or equivalent. Expressed in the authorized form of the committee member’s name if possible. Multiple values allowed.
+ 
+dc.creator
+Author of the work. Name of student. Entered as last name first, first name last.
+ 
+dc.date.created
+Creation date is defined as the date the student graduates or the date the degree is conferred, expressed in YYYY-MM format.
+Example: 2012-05
+ 
+dc.date.issued
+The publication date is defined as the date the ETD is released to the public (Date thesis is accessible in DSpace). Expressed in YYYY-MM-DD format.
+Example: 2012-09-05
+ 
+dc.date.submitted
+Natural language date of dc.date.created (May or December)
+Example: May 2012
+ 
+dc.description
+Local usage only. Additional information regarding the thesis or dissertation.
+Example: acceptance note of the department.
+ 
+dc.description.abstract
+The full text of the abstract of the thesis or dissertation. If an abstract is not available, field is left blank.
+Note: historical thesis may not contain abstracts and some modern Architecture thesis do not as well.
+ 
+dc.description.sponsorship
+Local usage only. Information about sponsoring agencies, individuals, or contractual arrangements for the item.
+ 
+dc.embargo.lift
+Date to remove embargo. Once embargo date has past, value is removed.
+ 
+dc.embargo.terms
+Embargo period. Options are: None, Six month, One year, Two year embargo periods. Value is populated in IR as lift date.
+ 
+dc.format.digitalOrigin
+A designation of the source of the digital file important to its creation, use and management. According to the MODS User Guidelines, the following values may be used for ETDs are :“born digital” and “reformatted digital”.
+ 
+Note: For local practice, more common usage is to indicate digitization of print hard copies by vendors or in-house ILL requests. Not part of the Vireo submission.
+ 
+dc.format.extent
+Legacy usage. Number of pages in PDF file.
+Example: 300 pp.
+Note: Investigating systematically extracting this information to auto-populate records
+ 
+dc.format.mimetype
+Internet Media Type. Use the standard MIME type whenever possible (for a list of "registered" MIME types, visit ftp://ftp.isi.edu/in-notes/iana/assignments/media-types/media-types).
+Standard entry: application/pdf
+ 
+dc.identifier.citation
+Auto-generated. Follows citation method based on APA style
+Standard Entry: Author. "Title." (Date). Degree Level Thesis, University. URL
+ 
+dc.identifier.digital
+Local usage only. Unique identifier assigned for locally scanned manuscripts. Used only for ingests of print theses.
+ 
+dc.identifier.slug
+Unique identifier for Vireo generated data.
+Example: 123456789/ETD-2012-05-42
+ 
+dc.identifier.uri
+Unique persistence resource identifier in url format. Automatically assigned at point of ingest to IR. Standard: CNRI's Handles system http://www.handle.net/
+ 
+dc.language.iso
+Language in which the content of a resource is expressed. Specified using the ISO 639-2 code for the representation of the name of the language (3 digits) http://www.loc.gov/standards/iso639-2/php/code_list.php
+Example: eng
+ 
+dc.relation.ispartofseries
+Local usage only. Series name and number for the item.
+ 
+dc.subject
+A term or phrase representing the primary topic(s) on which a work is focused. Free text. Supplied by author. Multiple values are possible.
+ 
+Students are recommended to "Enter keywords so that your thesis can be discovered via major search engines.  We recommend that you include keywords used in the UMI Agreement form." Quoted from Office of Graduate & Postdoctoral Studies, Guidelines for Online Thesis Submission at Rice University.
+ 
+dc.title
+Title Information. A name given to the resource. The title of the work as it appears on the title page proper or equivalent. Subtitles are added to main title separated by colon.
+ 
+dc.title.alternative
+Not typically used. Free text. Transcribe from source.
+ 
+dc.type.genre
+The nature or genre of the content of a resource. Standard entry: Thesis
+ 
+dc.type.material
+Type of Resource. Specified using the DCMI type standard vocabulary found at: http://dublincore.org/documents/dcmi-type-vocabulary/
+Standard entry: Text
+ 
+thesis.degree.department
+Degree Information. Name of major granted or name of department or school granting thesis. If degree department is not available, field is left blank. See list of currently available Departments
+ 
+thesis.degree.discipline
+Degree Information. Area of study of the intellectual content of the document.  If degree discipline is not available, field is left blank. See list of currently available colleges.
+ 
+thesis.degree.grantor
+Degree Information. Name of Degree Grantor. Name of institution granting the degree associated with the work.
+Standard entry: Rice University
+ 
+thesis.degree.level
+Degree Information. Level of education associated with the document. Note: Value is displayed as “Thesis (Doctoral)” in the IR but the actual field content is simple “Doctoral”.
+Examples: Masters, Doctoral, post-doctoral, other.
+ 
+thesis.degree.name
+Degree Information. Name of the degree associated with the work as it appears within the work. See list of currently available Degrees.
+Example: Doctor of Philosophy
+ 
+List of controlled vocabulary terms
+https://digitalriceprojects.pbworks.com/w/page/64400608/Control%20Vocabularies
+ 
+List of elements by group
+ 
+Primary elements
+thesis.degree.name
+dc.contributor.advisor
+dc.type.genre
+dc.contributor.committeeMember
+dc.type.material
+dc.creator
+
+System generated
+dc.date.created
+dc.embargo.lift
+dc.date.issued
+dc.format.mimetype
+dc.date.submitted
+dc.identifier.citation
+dc.description.abstract
+dc.identifier.slug
+dc.embargo.terms
+dc.identifier.uri
+dc.language.iso
+
+Legacy
+dc.subject
+dc.description
+dc.title
+dc.description.sponsorship
+thesis.degree.department
+dc.format.extent
+thesis.degree.discipline
+dc.identifier.digital
+thesis.degree.grantor
+dc.relation.ispartofseries
+thesis.degree.level
+dc.title.alternative
+ 
+Primary elements are captured through the Vireo ETD submission system as entered or selected by the graduate student.
+System generated elements are auto-generated data created at time of ingest.
+Legacy elements are those elements outside of the Vireo system (i.e. only available in DSpace).
+ 
+Elements for Supplemental Files
+In order to help identify supplemental files the following metadata may be added to a record. Additional type elements are browsable from main interface.
+ 
+dc.type.genre[en_US]	additional genre types such as "maps"
+dc.type.dcmi[en_US]	additional DCMI types such as MovingImage, Sound, Software
+bitstream description	add title for supplemental file
+ 
+Resources: Content standards and guidelines
+ 
+Descriptive Metadata Guidelines for Electronic Theses and Dissertations. Version 1.0. TDL (Texas Digital Library) Metadata Working Group. June 2008. http://www.tdl.org/wp-content/uploads/2009/04/tdl-descriptive-metadata-guidelines-for-etd-v1.pdf
+see p19 Appendix A: Quick Reference Mapping Table
+ 
+ETD-MS: An Interoperability Metadata Standard for Electronic Theses and Dissertations, last modified June 25, 2008. http://www.ndltd.org/standards/metadata/etd-ms-v1.00-rev2.html
+ 
+Harlan, Amanda, “Texas Digital Library’s (TDL) Electronic Theses and Dissertations (ETDs) Descriptive metadata Guidelines & Vireo ETD Submission System”. ALA. 2010. http://presentations.ala.org/images/3/31/Harlan.pdf
+History of ETDs
+ 
+MODS Application Profile for Electronic Theses and Dissertations Version 1. TDL (Texas Digital Library) Metadata Working Group. December 2005. http://www.tdl.org/wp-content/uploads/2009/04/etd_mods_profile.pdf. Updated link: http://www.tdl.org/wp-content/uploads/2009/04/tdl-descriptive-metadata-guidelines-for-etd-v1.pdf
+ 
+Vireo ETD System: Online submission and management of electronic theses and dissertations, Texas Digital Library. http://tdl.org/etds/
+Introduction to system, including screen shots of user interface
