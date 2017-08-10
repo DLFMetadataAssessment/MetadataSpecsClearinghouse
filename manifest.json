@@ -1,0 +1,21 @@
+{
+  "name": "apClearinghouse",
+  "short_name": "apclearing",
+  "start_url": "/?utm_source=webapp",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#33ccff",
+  "background_color": "#33ccff",
+  "icons": [
+    {
+      "src": "assets/images/apclearing-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/apclearing-splash.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
