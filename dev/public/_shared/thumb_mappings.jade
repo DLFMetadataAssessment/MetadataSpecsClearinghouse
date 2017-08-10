@@ -1,0 +1,27 @@
+section.row
+  .col-xs-12.col-sm-9
+    h3 #{subtitle}
+    p #{about}<br><br>Site: <a href="#{site}" target="_blank">#{site}</a>
+h4 Available Metadata Documents From This Institution:
+section.row
+  - var image_path = root_url[environment] + "assets/images/"
+  - var sorted_mappings = mappings.sort(function(a,b) {
+  -   if (a.year < b.year) return 1;
+  -   if (a.year > b.year) return -1;
+  -   return 0;
+  - });
+  each mapping in mappings
+    - var mapping_id = mapping.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase()
+    - var mapping_url = mapping.url + (mapping.url.indexOf("?") >= 0 ? "&" : "?") + utm;
+    - var mapping_image = image_path + (mapping.image ? mapping.image : image)
+    - var mapping_thumb_url = root_url[environment] + name + '#' + mapping_id;
+    - var mapping_thumb_title = mapping.title;
+    section.col-xs-12.col-sm-6.col-md-4
+      div(class="anchor" id="#{mapping_id}")
+      div(class="thumbnail#{mapping.paid_mapping ? ' thumbnail-featured' : ''}")
+        a(href="#{mapping_url}" target="_blank" title="#{mapping.title}" onclick="ga('send', 'event', '#{mapping.paid_mapping ? 'Paid Mappings' : 'Mappings'}', '#{subtitle}', '#{mapping.title}');")
+          img.img-responsive.img-rounded(src="#{mapping_image}")
+        div.caption
+          h3.mapping-title #{mapping.title}
+          p.mapping-description #{mapping.description}
+          p.mapping-metadata Version: <span class="label label-success">#{mapping.version}</span> Released: <span class="label label-success">#{mapping.year}</span> Lang.: <span class="label label-success">#{mapping.lang.toUpperCase()}</span> Kind: <span class="label label-success">#{mapping.kind.toUpperCase()}</span>
