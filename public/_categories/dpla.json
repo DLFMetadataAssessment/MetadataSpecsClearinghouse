@@ -25,33 +25,33 @@
 		"year": 2017,
 		"version": "4.0",
 		"kind": "xslx",
-		"image": "map-cross.png",
+		"image": "map-cross.jpg",
 		"lang": "EN",
 		"added_at": "20170925",
 		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/raw/master/assets/data/DPLAMAP4Crosswalks_09182017.xlsx"
      },
      {
 	     	"title": "DPLA Ruby Ingestion System Mappings",
-		"description": "DPLA Ruby Ingestion System Mappings. ZIP archive contains samples of the mappings created for DPLA's Ruby-based ingestion system (no longer in use), called KriKri (the DPLA-specific implementation was called Heidrun). The mappings in this repository focus solely on just mapping the data (moving it from one format to another) while other code in the Krikri and Heidrun projects perform enrichments. In the previous, Python-based ingestion system, these two functions were often somewhat intermixed.",
+		"description": "A ZIP archive containing samples of the mappings created for DPLA's Ruby-based ingestion system (no longer in use), called KriKri (the DPLA-specific implementation was called Heidrun). See README inside for details.",
 		"year": 2017,
-		"version": "4.0",
+		"version": "NA",
 		"kind": "zip",
-		"image": "code.png",
+		"image": "code.jpg",
 		"lang": "NA",
 		"added_at": "20170925",
 		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/raw/master/assets/data/DPLAPythonMappings.zip"
      },
      {
 		"title": "DPLA Python Ingestion System Mappings",
-		"description": "DPLA Python Ingestion System Mappings. ZIP archive contains a collection of sample Python documents, including mappings, enrichment scripts, other essential scripts, and a profile used in the system to pull in mappings and enrichments.",
+		"description": "A ZIP archive contains a collection of Python documents, including mappings, enrichments, other scripts, and a profile used in the system to pull in mappings and enrichments. See README inside for details.",
 		"year": 2017,
-		"version": "4.0",
+		"version": "NA",
 		"kind": "zip",
-		"image": "code.png",
+		"image": "code.jpg",
 		"lang": "NA",
 		"added_at": "20170925",
 		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/raw/master/assets/data/DPLAMAP4Crosswalks_09182017.xlsx"
-     }    
+     }
     ]
   }
 }
