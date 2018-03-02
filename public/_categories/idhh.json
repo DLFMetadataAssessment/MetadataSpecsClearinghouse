@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "idhh",
+    "subtitle": "Illinois Digital Heritage Hub",
+    "tags": ["best-practice"],
+    "about": "The Illinois Digital Heritage Hub is a collaboration between Illinois State Library, the Consortium of Academic and Research Libraries in Illinois, Chicago Public Library, and the University of Illinois at Urbana-Champaign.",
+    "site": "https://dp.la/search?partner%5B%5D=Illinois+Digital+Heritage+Hub",
+    "image": "idhh.jpg",
+    "description": "Metadata guidelines and best practices created for the Illinois Digital Heritage Hub.",
+    "mappings": [
+      {
+		"title": "Metadata Best Practices for the Illinois Digital Heritage Hub",
+		"description": "This document was created for institutions (libraries, archives, and museums) that contribute digital collections metadata to the IDHH, covering best practices for each metadata field used by the Digital Public Library of America (DPLA), based on DPLA’s Metadata Application Profile.",
+		"year": 2017,
+		"version": "1.0",
+		"kind": "PDF",
+		"image": "best-prac.jpg",
+		"lang": "EN",
+		"added_at": "20180301",
+		"url": "https://github.com/scottythered/apclearing/raw/master/assets/data/IDHH_Metadata_Best_Practices.pdf"
+      }
+    ]
+  }
+}
