@@ -12,7 +12,7 @@ section.row
   - });
   each mapping in mappings
     - var mapping_id = mapping.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase()
-    - var mapping_url = mapping.url + (mapping.url.indexOf("?") >= 0 ? "&" : "?") + utm;
+    - var mapping_url = mapping.url;
     - var mapping_image = image_path + (mapping.image ? mapping.image : image)
     - var mapping_thumb_url = root_url[environment] + name + '#' + mapping_id;
     - var mapping_thumb_title = mapping.title;
