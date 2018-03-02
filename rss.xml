@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DLF AIG Metadata Application Profile Clearinghouse]]></title><description><![CDATA[A Collection of Application Profiles for Digital Collections]]></description><link>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/</link><image><url>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/assets/images/MetadataSpecsClearinghouse-thumb.png</url><title>DLF AIG Metadata Application Profile Clearinghouse</title><link>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 28 Sep 2017 02:40:45 GMT</lastBuildDate><atom:link href="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 28 Sep 2017 02:40:00 GMT</pubDate><managingEditor><![CDATA[DLF AIG Metadata Interest Group]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free mapping: DPLA Partners Crosswalk, Map 4.0]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DLF AIG Metadata Application Profile Clearinghouse]]></title><description><![CDATA[A Collection of Application Profiles for Digital Collections]]></description><link>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/</link><image><url>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/assets/images/MetadataSpecsClearinghouse-thumb.png</url><title>DLF AIG Metadata Application Profile Clearinghouse</title><link>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 02 Mar 2018 15:41:42 GMT</lastBuildDate><atom:link href="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 02 Mar 2018 15:41:00 GMT</pubDate><managingEditor><![CDATA[DLF AIG Metadata Interest Group]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free mapping: Metadata Best Practices for the Illinois Digital Heritage Hub]]></title><description><![CDATA[
+        <article>
+          <figure style="text-align:center;">
+            <img src="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/assets/images/best-prac.jpg" title="Metadata Best Practices for the Illinois Digital Heritage Hub" />
+            <figcaption>Metadata Best Practices for the Illinois Digital Heritage Hub</figcaption>
+          </figure>
+          <p>
+            This document was created for institutions (libraries, archives, and museums) that contribute digital collections metadata to the IDHH, covering best practices for each metadata field used by the Digital Public Library of America (DPLA), based on DPLA’s Metadata Application Profile.
+            <br />
+            Author: <b>undefined</b> | Section: <b>Illinois Digital Heritage Hub</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>undefined</b> | Year: <b>2017</b>
+          </p>
+        </article>
+      ]]></description><link>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/idhh/#metadata-best-practices-for-the-illinois-digital-heritage-hub</link><guid isPermaLink="true">https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/idhh/#metadata-best-practices-for-the-illinois-digital-heritage-hub</guid><dc:creator><![CDATA[DLF AIG Metadata Interest Group]]></dc:creator><pubDate>Thu, 01 Mar 2018 06:00:00 GMT</pubDate></item><item><title><![CDATA[Free mapping: South Carolina Digital Library Metadata Schema & Guidelines]]></title><description><![CDATA[
+        <article>
+          <figure style="text-align:center;">
+            <img src="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/assets/images/app-pro.jpg" title="South Carolina Digital Library Metadata Schema & Guidelines" />
+            <figcaption>South Carolina Digital Library Metadata Schema & Guidelines</figcaption>
+          </figure>
+          <p>
+            The element descriptions presented here represent the Dublin Core fields for the item-level records created and maintained for the South Carolina Digital Library.
+            <br />
+            Author: <b>undefined</b> | Section: <b>South Carolina Digital Library</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>undefined</b> | Year: <b>2016</b>
+          </p>
+        </article>
+      ]]></description><link>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/scdl/#south-carolina-digital-library-metadata-schema--guidelines</link><guid isPermaLink="true">https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/scdl/#south-carolina-digital-library-metadata-schema--guidelines</guid><dc:creator><![CDATA[DLF AIG Metadata Interest Group]]></dc:creator><pubDate>Thu, 25 Jan 2018 06:00:00 GMT</pubDate></item><item><title><![CDATA[Free mapping: DPLA Partners Crosswalk, Map 4.0]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/assets/images/map-cross.jpg" title="DPLA Partners Crosswalk, Map 4.0" />

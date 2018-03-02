@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2017-09-28T02:40:46.023Z
+# rev 1 - 2018-03-02T15:41:42.702Z
 
 CACHE:
 404.html
@@ -16,9 +16,11 @@ assets/font/opensans.svg
 assets/font/opensans.ttf
 assets/font/opensans.woff
 assets/images/app-pro.jpg
+assets/images/best-prac.jpg
 assets/images/code.jpg
 assets/images/dpla.jpg
 assets/images/houston.jpg
+assets/images/idhh.jpg
 assets/images/map-cross.jpg
 assets/images/MetadataSpecsClearinghouse-128.png
 assets/images/MetadataSpecsClearinghouse-splash.png
@@ -26,6 +28,8 @@ assets/images/MetadataSpecsClearinghouse-thumb.png
 assets/images/MetadataSpecsClearinghouse.png
 assets/images/mwdl.jpg
 assets/images/rice.jpg
+assets/images/scdl.jpg
+assets/images/template.jpg
 assets/js/aightjs.min.js
 assets/js/application.js
 assets/js/html5shiv.min.js

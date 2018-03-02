@@ -2,37 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/about/</loc>
-		<lastmod>2017-09-28T02:40:41.926Z</lastmod>
+		<lastmod>2018-03-02T15:41:38.998Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/dpla/</loc>
-		<lastmod>2017-09-28T02:40:41.957Z</lastmod>
+		<lastmod>2018-03-02T15:41:38.993Z</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/idhh/</loc>
+		<lastmod>2018-03-02T15:41:39.010Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/</loc>
-		<lastmod>2017-09-28T02:40:41.957Z</lastmod>
+		<lastmod>2018-03-02T15:41:39.038Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/mwdl/</loc>
-		<lastmod>2017-09-28T02:40:41.926Z</lastmod>
+		<lastmod>2018-03-02T15:41:39.026Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/rice-university/</loc>
-		<lastmod>2017-09-28T02:40:41.942Z</lastmod>
+		<lastmod>2018-03-02T15:41:39.015Z</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/scdl/</loc>
+		<lastmod>2018-03-02T15:41:39.004Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/university-of-houston/</loc>
-		<lastmod>2017-09-28T02:40:41.942Z</lastmod>
+		<lastmod>2018-03-02T15:41:39.021Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
