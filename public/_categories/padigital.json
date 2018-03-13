@@ -1,0 +1,35 @@
+{
+  "index": {
+    "name": "padigital",
+    "subtitle": "PA Digital",
+    "tags": ["best-practices, mapping"],
+    "about": "PA Digital is a network of libraries, historical societies, museums and related cultural heritage institutions in the Commonwealth of Pennsylvania.",
+    "site": "https://padigital.org/",
+    "image": "padigital.jpg",
+    "description": "Metadata guidelines and mappings created for PA Digital.",
+    "mappings": [
+      {
+		"title": "PA Digital Metadata Guidelines",
+		"description": "The PA Digital Metadata Guidelines outline requirements, recommendations, and best practices for institutions contributing to Pennsylvania's DPLA service hub.",
+		"year": 2017,
+		"version": "Aug. 2017, revised",
+		"kind": "PDF",
+		"image": "best-prac.jpg",
+		"lang": "EN",
+		"added_at": "20180309",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/PA Digital Metadata Guidelines - August 2017.pdf"
+      },
+      {
+		"title": "PA Digital aggregator to DPLA Crosswalk",
+		"description": "PA Digital aggregator accepts and stores QDC but currently only outbounds DC. This sheet, used internally, describes the Inbound->Outbound->DPLA crosswalk, including stacking of elements, to ensure our mapping remains consistent.",
+		"year": 2017,
+		"version": "1",
+		"kind": "PDF",
+		"image": "code.jpg",
+		"lang": "EN",
+		"added_at": "20180309",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/PA Digital to DPLA Crosswalk (Feb 2017) - Mapping.pdf"
+      }
+    ]
+  }
+}
