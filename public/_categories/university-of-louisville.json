@@ -3,7 +3,7 @@
     "name": "louisville",
     "subtitle": "Archives and Special Collections, University of Louisville",
     "tags": ["best-practices"],
-    "about": "The University of Louisville Libaries include Merill-Cazier Library, the USU Eastern Price and USU Eastern Blanding campus libraries, the Anne Carroll Moore Library of the Edith Bowen Laboratory School, the Young Education Technology Center, the Intermountain Herbarium and the Quinney Natural Resources Library in the Quinney College of Natural Resources.",
+    "about": "The University of Louisville Libaries includes Archives & Special Collections, the Art Library, Ekstrom East and West Libraries, Kornhauser Health Sciences, Law and Music.",
     "site": "http://louisville.edu",
     "image": "louisville.jpg",
     "description": "Metadata guidelines created for UofL Digital Initiatives.",
@@ -14,7 +14,7 @@
 		"year": 2015,
 		"version": "1",
 		"kind": "PDF",
-		"image": "app-pro.jpg",
+		"image": "best-prac.jpg",
 		"lang": "EN",
 		"added_at": "20180316",
 		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/Louisville.pdf"
