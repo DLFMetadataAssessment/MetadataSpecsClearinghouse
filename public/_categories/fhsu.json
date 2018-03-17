@@ -1,12 +1,12 @@
 {
   "index": {
     "name": "fhsu",
-    "subtitle": "Forsyth Digital Collections - Forsyth Library - Fort Hays State University",
+    "subtitle": "Forsyth Library, Fort Hays State University",
     "tags": ["application-profile"],
     "about": "Forsyth Library is the main library for Fort Hays State University.",
     "site": "http://contentcat.fhsu.edu/digital/",
     "image": "fhsu.jpg",
-    "description": "Metadata guidelines for Forsyth Digital Collections.",
+    "description": "Metadata guidelines for Forsyth Digital Collections at Forsyth Library, Fort Hays State University.",
     "mappings": [
       {
 		"title": "CONTENTdm Core Metadata Application Profile",

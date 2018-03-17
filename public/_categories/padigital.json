@@ -2,7 +2,7 @@
   "index": {
     "name": "padigital",
     "subtitle": "PA Digital",
-    "tags": ["best-practices, mapping"],
+    "tags": ["best-practices", "mapping"],
     "about": "PA Digital is a network of libraries, historical societies, museums and related cultural heritage institutions in the Commonwealth of Pennsylvania.",
     "site": "https://padigital.org/",
     "image": "padigital.jpg",
@@ -12,23 +12,23 @@
 		"title": "PA Digital Metadata Guidelines",
 		"description": "The PA Digital Metadata Guidelines outline requirements, recommendations, and best practices for institutions contributing to Pennsylvania's DPLA service hub.",
 		"year": 2017,
-		"version": "Aug. 2017, revised",
+		"version": "N/A",
 		"kind": "PDF",
 		"image": "best-prac.jpg",
 		"lang": "EN",
 		"added_at": "20180309",
-		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/PA Digital Metadata Guidelines - August 2017.pdf"
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/PA_Digital_Metadata_Guidelines_-_August_2017.pdf"
       },
       {
-		"title": "PA Digital aggregator to DPLA Crosswalk",
-		"description": "PA Digital aggregator accepts and stores QDC but currently only outbounds DC. This sheet, used internally, describes the Inbound->Outbound->DPLA crosswalk, including stacking of elements, to ensure our mapping remains consistent.",
+		"title": "PA Digital Aggregator to DPLA Crosswalk",
+		"description": "PA Digital aggregator accepts and stores QDC but currently only outbounds DC. This sheet, used internally, describes the Inbound -> Outbound -> DPLA crosswalk, including stacking of elements, to ensure our mapping remains consistent.",
 		"year": 2017,
-		"version": "1",
+		"version": "1.0",
 		"kind": "PDF",
-		"image": "code.jpg",
+		"image": "map-cross.jpg",
 		"lang": "EN",
 		"added_at": "20180309",
-		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/PA Digital to DPLA Crosswalk (Feb 2017) - Mapping.pdf"
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/PA_Digital_to_DPLA_Crosswalk_Feb_2017_-_Mapping.pdf"
       }
     ]
   }
