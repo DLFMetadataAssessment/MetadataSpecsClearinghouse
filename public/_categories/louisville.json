@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "louisville",
+    "subtitle": "Archives and Special Collections, University of Louisville",
+    "tags": ["best-practice"],
+    "about": "The University of Louisville Libaries include Archives & Special Collections, Art, Ekstrom East and West, Kornhauser Health Sciences, Law and Music Libraries.",
+    "site": "http://louisville.edu",
+    "image": "louisville.jpg",
+    "description": "Metadata guidelines created for UofL Digital Initiatives.",
+    "mappings": [
+      {
+		"title": "CONTENTdm Cookbook: Recipes for metadata entry for UofL Digital Initiatives",
+		"description": "This document is intended as a guide to data entry and descriptive cataloging for University of Louisville (UofL) digital projects using CONTENTdm software.",
+		"year": 2015,
+		"version": "1",
+		"kind": "PDF",
+		"image": "best-prac.jpg",
+		"lang": "EN",
+		"added_at": "20180316",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/Louisville.pdf"
+      }
+    ]
+  }
+}
