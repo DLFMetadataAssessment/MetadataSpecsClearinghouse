@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "dlsd",
+    "subtitle": "Digital Library of South Dakota",
+    "tags": ["best-practice"],
+    "about": "The Digital Library of South Dakota (DLSD) is a collaboration of the libraries of the six Board of Regents colleges and universities as well as partners in the state of South Dakota.",
+    "site": "http://explore.digitalsd.org/digital/ ",
+    "image": "dlsd.jpg",
+    "description": "Metadata guidelines created by Digital Library of South Dakota.",
+    "mappings": [
+      {
+		"title": "Digital Library of South Dakota Metadata Guidelines",
+		"description": "Digital Library of South Dakota Metadata Guidelines provides a best practice outline for the creation of metadata records for digital resources for inclusion in Digital Library South Dakota (DLSD).",
+		"year": 2009-11-01,
+		"version": "1.1",
+		"kind": "pdf",
+		"image": "best-prac.jpg",
+		"lang": "EN",
+		"added_at": "20180501",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/DLSD_Metadata_Guidelines_Version_1.1.pdf"
+      }
+    ]
+  }
+}
