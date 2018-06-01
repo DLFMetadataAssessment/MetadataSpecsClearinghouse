@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "carnegie-hall",
+    "subtitle": "Carnegie Hall Archives",
+    "tags": ["application-profile"],
+    "about": "Carnegie Hall's mission is to present extraordinary music and musicians on the three stages of this legendary hall, to bring the transformative power of music to the widest possible audience, to provide visionary education programs, and to foster the future of music through the cultivation of new works, artists and audiences. The Carnegie Hall Archives' mission is to acquire, preserve, and make publicly accessible documents and materials—physical and digital—related to the origins, history, activities, growth, and development of Carnegie Hall.",
+    "site": "https://carnegiehall.github.io/digitalcolls-metadataprofile/",
+    "image": "carnegie-hall.jpg",
+    "description": "Metadata guidelines created for Carnegie Hall Archives.",
+    "mappings": [
+      {
+		"title": "Carnegie Hall Digital Collections Metadata Application Profile",
+		"description": "This online profile describes metadata elements for item-level asset records created and managed by the Carnegie Hall Archives for its Digital Collections. The purpose of establishing this profile is to document current metadata standards, cataloging procedures, and controlled vocabularies to allow for self-assessment and interoperability across cultural institutions. MAP is publicly available at https://carnegiehall.github.io/digitalcolls-metadataprofile/.",
+		"year": "2018",
+		"version": "Initial Release",
+		"kind": "PDF",
+		"image": "app-pro.jpg",
+		"lang": "EN",
+		"added_at": "20180601",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/carnegie-hall.pdf"
+      }
+    ]
+  }
+}
