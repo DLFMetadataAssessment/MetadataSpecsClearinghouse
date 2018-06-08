@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "esdn",
+    "subtitle": "Empire State Digital Network",
+    "tags": ["best-practice"],
+    "about": "Empire State Digital Network is a service hub of the Digital Public Library of America (DPLA). The Network is administered by the Metropolitan New York Library Council (METRO) in collaboration with eight allied regional library councils collectively working as the Empire State Library Network.",
+    "site": "https://empirestate.digital/",
+    "image": "esdn.jpg",
+    "description": "Metadata guidelines for the Empire State Digital Network.",
+    "mappings": [
+      {
+		"title": "ESDN Metadata Best Practices and Guidelines",
+		"description": "These guidelines are intended to assist potential and current partners with preparing and updating metadata for DPLA through the Empire State Digital Network. The guidelines are not intended to replace local metadata guidelines, but to provide guidance and clarification for new and existing ESDN partners who are considering or in the process of providing metadata to DPLA as part of their digital collections workflow.",
+		"year": 2016,
+		"version": "1.0",
+		"kind": "PDF",
+		"image": "best-prac.jpg",
+		"lang": "EN",
+		"added_at": "20180317",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/ESDN_Metadata_Best_Practices_and_Guidelines.pdf"
+      }
+    ]
+  }
+}

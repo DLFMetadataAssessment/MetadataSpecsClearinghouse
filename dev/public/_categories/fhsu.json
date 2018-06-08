@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "fhsu",
+    "subtitle": "Fort Hays State University",
+    "tags": ["application-profile"],
+    "about": "Forsyth Library is the main library of Fort Hays State University.",
+    "site": "http://contentcat.fhsu.edu/digital/",
+    "image": "fhsu.jpg",
+    "description": "Metadata guidelines for Forsyth Digital Collections at Forsyth Library, Fort Hays State University.",
+    "mappings": [
+      {
+		"title": "CONTENTdm Core Metadata Application Profile",
+		"description": "This document is our core application profile for digital collections cataloged in CONTENTdm. Fields may be added depending on the needs of the collection but no collection should have less than what is here.",
+		"year": 2017,
+		"version": "2.1",
+		"kind": "PDF",
+		"image": "app-pro.jpg",
+		"lang": "EN",
+		"added_at": "20180307",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/Core_Application_Profile_v2.1.pdf"
+      }
+    ]
+  }
+}

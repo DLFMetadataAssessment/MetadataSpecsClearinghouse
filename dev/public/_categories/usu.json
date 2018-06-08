@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "usu",
+    "subtitle": "Utah State University Libraries",
+    "tags": ["application-profile"],
+    "about": "The Utah State University Libaries include Merill-Cazier Library, the USU Eastern Price and USU Eastern Blanding campus libraries, the Anne Carroll Moore Library of the Edith Bowen Laboratory School, the Young Education Technology Center, the Intermountain Herbarium and the Quinney Natural Resources Library in the Quinney College of Natural Resources.",
+    "site": "http://usu.edu",
+    "image": "usu.jpg",
+    "description": "Metadata guidelines created for the Utah State University Libaries.",
+    "mappings": [
+      {
+		"title": "Metadata Application Profile - CONTENTdm Digital Collections",
+		"description": "Application profiles for Utah State University Digital Collections.",
+		"year": 2018,
+		"version": "1.1",
+		"kind": "PDF",
+		"image": "app-pro.jpg",
+		"lang": "EN",
+		"added_at": "20180312",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/USU-Metadata-Application-Profile-CONTENTdm.pdf"
+      }
+    ]
+  }
+}

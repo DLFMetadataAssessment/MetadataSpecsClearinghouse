@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "louisville",
+    "subtitle": "University of Louisville",
+    "tags": ["best-practice"],
+    "about": "Digital Initiatives coordinates the digitization, digital presentation, and digital preservation of archival collections and other library resources at the University of Louisville Libraries.",
+    "site": "https://library.louisville.edu/archives/di",
+    "image": "louisville.jpg",
+    "description": "Metadata guidelines created for the Digital Initiatives of the University of Louisville Libraries.",
+    "mappings": [
+      {
+		"title": "CONTENTdm Cookbook: Recipes for metadata entry for UofL Digital Initiatives",
+		"description": "This document is intended as a guide to data entry and descriptive cataloging for University of Louisville digital projects using CONTENTdm software.",
+		"year": 2015,
+		"version": "1.0",
+		"kind": "PDF",
+		"image": "best-prac.jpg",
+		"lang": "EN",
+		"added_at": "20180316",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/Louisville.pdf"
+      }
+    ]
+  }
+}

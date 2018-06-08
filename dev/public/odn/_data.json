@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "odn",
+    "subtitle": "Ohio Digital Network",
+    "tags": ["application-profile"],
+    "about": "Led by the State Library of Ohio and in partnership with Ohio Library and Information Network, Ohio Public Library Information Network, and Ohio History Connection, the Ohio Digital Network builds on strong digital collection efforts across the state including Ohio Memory and the Ohio Digitization Hubs project.",
+    "site": "https://dp.la/search?partner%5B%5D=Ohio+Digital+Network",
+    "image": "odn.jpg",
+    "description": "Metadata guidelines created for the Ohio Digital Network.",
+    "mappings": [
+      {
+		"title": "ODN Metadata Application Profile (MAP) v1.4",
+		"description": "Ohio Digital Network uses this map to cross-walk partner metadata before it is harvested by DPLA.",
+		"year": 2017,
+		"version": "1.4",
+		"kind": "PDF",
+		"image": "app-pro.jpg",
+		"lang": "EN",
+		"added_at": "20180402",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/ODN_MAP.pdf"
+      }
+    ]
+  }
+}

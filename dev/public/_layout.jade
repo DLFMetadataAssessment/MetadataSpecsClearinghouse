@@ -1,0 +1,15 @@
+- var manifest_url = environment == "production" ? root_url[environment]+'manifest.appcache' : ''
+doctype html
+html(lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#")
+  head
+    != partial("_shared/head")
+  body
+    != partial("_shared/header")
+    main.container(role="main")
+      != yield
+    != partial("_shared/social_buttons")
+    != partial("_shared/social_buttons_mobile")
+    != partial("_shared/footer")
+    script(src="#{root_url[environment]}assets/js/application.js")
+    if environment == "production"
+      script(src="#{root_url[environment]}sw.js")

@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "scdl",
+    "subtitle": "South Carolina Digital Library",
+    "tags": ["application-profile"],
+    "about": "The South Carolina Digital Library provides free access to historic materials illustrating the history and culture of South Carolina from over 40 cultural heritage institutions across the state.",
+    "site": "http://scmemory.org/",
+    "image": "scdl.jpg",
+    "description": "Metadata guidelines created for the South Carolina Digital Library.",
+    "mappings": [
+      {
+		"title": "South Carolina Digital Library Metadata Schema & Guidelines",
+		"description": "The element descriptions presented here represent the Dublin Core fields for the item-level records created and maintained for the South Carolina Digital Library.",
+		"year": 2016,
+		"version": "1.1",
+		"kind": "PDF",
+		"image": "app-pro.jpg",
+		"lang": "EN",
+		"added_at": "20180125",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/SCDLMetadataSchema_2016.pdf"
+      }
+    ]
+  }
+}
