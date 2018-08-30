@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "nyarc",
+    "subtitle": "NYARC",
+    "tags": ["application-profile"],
+    "about": "The New York Art Resources Consortium (NYARC) consists of the research libraries and archives of three leading art museums in New York City: The Brooklyn Museum, The Frick Collection, and The Museum of Modern Art. With funding from The Andrew W. Mellon Foundation, NYARC was formed in 2006 to facilitate collaboration that results in enhanced resources to research communities.",
+    "site": "http://www.nyarc.org/",
+    "image": "nyarc.jpg",
+    "description": "Metadata Application Profiles created by the New York Art Resources Consortium.",
+    "mappings": [
+      {
+		"title": "MAP for Description of Websites with Archived Versions",
+		"description": "MAP for NYARC's current practice of describing websites & specifies core elements recommended for websites both live and archived, especially in the context of bibliographic description. It includes a summary of data elements in a MARC/RDA environment, a data dictionary, notes on MARC coding, and sample MARC created by our institutions.",
+		"year": 2018,
+		"version": "2.0",
+		"kind": "PDF",
+		"image": "app-pro.jpg",
+		"lang": "EN",
+		"added_at": "20180813",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/nyarc-web-archiving-profile.pdf"
+      }
+    ]
+  }
+}
