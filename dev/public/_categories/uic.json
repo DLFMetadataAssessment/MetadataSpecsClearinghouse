@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "uic",
+    "subtitle": "University of Illinois at Chicago",
+    "tags": ["best-practices"],
+    "about": "",
+    "site": "http://library.uic.edu",
+    "image": "uic.png",
+    "description": "Metadata guidelines created for the University of Illinois at Chicaogo libraries.",
+    "mappings": [
+      {
+		"title": "UIC Metadata Best Practices Guideline",
+		"description": "A set of guidelines that outlines how elements are mapped and what information should be input in each element for digital material at the University of Illinois at Chicago.",
+		"year": 2018,
+		"version": "1.0",
+		"kind": "PDF",
+		"image": "best-prac.jpg",
+		"lang": "EN",
+		"added_at": "20181218",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/UIC_Metadata_Guideline.pdf"
+      }
+    ]
+  }
+}

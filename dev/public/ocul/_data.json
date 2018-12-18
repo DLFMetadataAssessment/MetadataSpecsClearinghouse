@@ -9,15 +9,48 @@
     "description": "Best practices for Ontario Council of University Libraries' (OCUL) Scholars GeoPortal.",
     "mappings": [
       {
+		"title": "ODESI Best Practices Document Based on DDI 2.x",
+		"description": "Ontario Data Documentation, Extraction Service and Infrastructure (<odesi>) provides researchers with access to datasets in a web-based data extraction system delivered through Scholars Portal (http://www.scholarsportal.info/). The goal of this document is to share our mark-up knowledge with other academic institutions. It is also to include the best practices for DDI so there will be consistency in marking up the surveys.",
+		"year": 2016,
+		"version": "3.0",
+		"kind": "Text",
+		"image": "best-prac.jpg",
+		"lang": "EN",
+		"added_at": "20180831",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/BPDv3_2016-09-08.docx"
+      },
+      {
 		"title": "Best Practices Guide to Creating Metadata Files for Scholars GeoPortal",
 		"description": "This document covers the basics of metadata and provides a set of detailed guidelines for creating metadata in compliance with the NAP: ISO 19115:2003 version 2009.",
 		"year": 2012,
 		"version": "Revised",
-		"kind": "PDF",
+		"kind": "Text",
 		"image": "best-prac.jpg",
 		"lang": "EN",
 		"added_at": "20180629",
 		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/Best_Practices_Guide_Subset_120301_LH.docx"
+      },
+      {
+		"title": "Guide de bonnes pratiques pour créer des enregistrements de métadonnées pour...",
+		"description": "Ce document couvre les bases des métadonnées et fournit un ensemble de lignes directrices détaillées pour la création de métadonnées, conformément avec le PNA: ISO 19115:2003 version 2009.",
+		"year": 2012,
+		"version": "révisée",
+		"kind": "Text",
+		"image": "best-prac.jpg",
+		"lang": "FR",
+		"added_at": "20180831",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/Best_Practices_Guide_Subset_120301_LH(French_version).docx"
+      },
+      {
+		"title": "Version 2 du document sur les pratiques exemplaires pour le projet ODESI...",
+		"description": "Version 2 du document sur les pratiques exemplaires pour le projet ODESI: Repose sur la version 2.x de l’. L’objectif de ce document est de partager notre connaissance sur l’IDD avec d’autres institutions d’enseignement. Il permet également de présenter les pratiques exemplaires relatives à l’IDD afin d’être uniforme au moment du balisage des enquêtes.",
+		"year": 2008,
+		"version": "2.0",
+		"kind": "PDF",
+		"image": "best-prac.jpg",
+		"lang": "FR",
+		"added_at": "20180831",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/BPDfrv2_2008-10-27_Final.pdf"
       }
     ]
   }
