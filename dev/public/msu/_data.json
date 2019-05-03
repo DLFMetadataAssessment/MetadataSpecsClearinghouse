@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "msu",
+    "subtitle": "Michigan State University",
+    "tags": ["application-profile"],
+    "about": "The Michigan State University Libraries digital repository provides online access to digital collections managed by the MSU Libraries.",
+    "site": "https://lib.msu.edu/",
+    "image": "msu.png",
+    "description": "Metadata profile created for the Michigan State University Library.",
+    "mappings": [
+      {
+		"title": "MSU Libraries MODS Application Profile",
+		"description": "The MSUL MODS Application Profile is intended for anyone creating, transforming, or working with MODS XML descriptive metadata at the Michigan State University Libraries.",
+		"year": 2019,
+		"version": "1.0",
+		"kind": "PDF",
+		"image": "app-pro.jpg",
+		"lang": "EN",
+		"added_at": "20190404",
+		"url": "https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/MSUL_MODS_Metadata_Application_Profile.pdf"
+      }
+    ]
+  }
+}
